@@ -1,6 +1,7 @@
 {
   "name": "kartu-kontak",
   "version": "0.0.0",
+  "deploy": "ng build --prod --base-href=/myProject/",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
